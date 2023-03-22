@@ -1,2 +1,3 @@
-LIFO and FIFO Team project
-Team member - Elijah & Ihochukwu.
+LIFO and FIFO Team project.
+
+Team members - Elijah & Ihochukwu.
